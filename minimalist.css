@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.products-top-section {
+    background-image: url("https://res.cloudinary.com/dnrmucymt/image/upload/v1719104904/Beej-Patakha_3_1_mskova.png");
+    height: 50vh;
+    background-size: cover;
+}
+
+.firefly-container {
+    height: 71px;
+    padding: 20px;
+    border-bottom: 1px solid #FF777766;
+    background: #1C1C1C33;
+}
+
+.firefly-image {
+    width: 116px;
+    height: 47.23px;
+    top: 12px;
+    left: 120px;
+}
+
+.products-top-section-heading {
+    color: #FFFFFF;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 56px;
+    text-align: left;
+}
+
+.quickview-button {
+    width: 211px;
+    height: 52px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 36px;
+    text-align: center;
+    color: #FE0000;
+    border: none;
+}
+
+.products-bottom-section {
+    text-align: center;
+    padding: 15px;
+}
+
+.about-container {
+    text-align: center;
+    background-size: cover;
+}
+
+.about-heading {
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 600;
+    color: #F27121;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.orange-image {
+    color: #F27121;
+    height: 15px;
+    width: 170px;
+}
+
+.about-paragraph {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    color: #000000;
+}
+
+.span-paragraph {
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    color: #000000;
+}
+
+.shining-image {
+    width: 117.1px;
+    height: 138.33px;
+}
+
+.ourproducts-heading {
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 600;
+    text-align: center;
+    color: #F27121;
+}
+
+.ourproduct-container {
+    text-align: center;
+}
+
+.ourproduct-card-item {
+    border: 1px solid #CECECE;
+    padding: 15px;
+    width: 500px;
+}
+
+.editor-name {
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 28px;
+    text-align: left;
+    color: #000000;
+    margin: 5px;
+    padding-top: 15px;
+}
+
+.product-button {
+    width: 120px;
+    height: 52px;
+    background: #FE0000;
+    color: #FFFFFF;
+    margin-left: 300px;
+    padding-bottom: 10px;
+}
+
+.ourproduct-image {
+    width: 400px;
+}
+
+.screenshot-image {
+    width: 400px;
+    background-size: cover;
+}
+
+.icon {
+    color: #d0b200;
+    font-size: 35px;
+    padding: 15px;
+}
+
+.last-image {
+    width: 500px;
+    background-size: cover;
+}
